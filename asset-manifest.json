@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kt/static/css/main.e889f8f1.chunk.css",
+    "main.js": "/kt/static/js/main.0206b678.chunk.js",
+    "main.js.map": "/kt/static/js/main.0206b678.chunk.js.map",
+    "runtime~main.js": "/kt/static/js/runtime~main.31f8a88c.js",
+    "runtime~main.js.map": "/kt/static/js/runtime~main.31f8a88c.js.map",
+    "static/css/2.d282528e.chunk.css": "/kt/static/css/2.d282528e.chunk.css",
+    "static/js/2.42c1b714.chunk.js": "/kt/static/js/2.42c1b714.chunk.js",
+    "static/js/2.42c1b714.chunk.js.map": "/kt/static/js/2.42c1b714.chunk.js.map",
+    "index.html": "/kt/index.html",
+    "precache-manifest.222a41dd764bc022692c9f5a3f10c7a3.js": "/kt/precache-manifest.222a41dd764bc022692c9f5a3f10c7a3.js",
+    "service-worker.js": "/kt/service-worker.js",
+    "static/css/2.d282528e.chunk.css.map": "/kt/static/css/2.d282528e.chunk.css.map",
+    "static/css/main.e889f8f1.chunk.css.map": "/kt/static/css/main.e889f8f1.chunk.css.map",
+    "static/media/dseg.css": "/kt/static/media/DSEGWeather.fdd63ddb.woff"
+  }
+}
