@@ -32,6 +32,9 @@ const App: React.FC = () => {
       </header>
       <footer className="App-footer">
         <TargetTimeForm targetTime={targetTime} onChange={setTargetTime} />
+        <button onClick={() => document.body.requestFullscreen({ navigationUI: 'hide' })}>
+          fullscreen
+        </button>
       </footer>
     </div>
   )
