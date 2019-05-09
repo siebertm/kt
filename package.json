@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/classnames": "^2.2.7",
     "@types/jest": "24.0.12",
     "@types/moment": "^2.13.0",
     "@types/node": "12.0.0",
     "@types/react": "16.8.17",
     "@types/react-dom": "16.8.4",
+    "classnames": "^2.2.6",
     "dseg": "^0.45.1",
     "moment": "^2.24.0",
     "react": "^16.8.6",

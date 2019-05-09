@@ -18,6 +18,22 @@ code {
   color: #110000;
 }
 
+@keyframes blink {
+  /* 0% {
+    color: #8b0000;
+    background-color: #110000;
+  } */
+  50% {
+    color: #110000;
+    background-color: #8b0000;
+  }
+}
+
+.CountdownClock.blinking,
+.CountdownClock.blinking .front {
+  animation: blink 1s step-end infinite;
+}
+
 .CountdownClock .front {
   position: absolute;
   top: 0;
